@@ -1,8 +1,7 @@
 # PricingLifeInsuranceProducts
 ## Model to Price Life Insurance Products based on Actuarial Techniques in R.
 
-#### Life insurances products are contracts that promise one or more payments upon occurrence
-of a life-contingent event. For example,
+#### Life insurances products are contracts that promise one or more payments upon occurrence of a life-contingent event. For example,
 * Life insurance contracts promise payments of a lump sum in case the insured dies within the period defined in the contract.
 * Annuity contracts pay a sum of money at the beginning (or the end) of each period, until the the term of the contract or the insured's death, whichever occurs first.
 * Endowment contracts pay a sum at the minimum between insured's death or the term of the contract.
