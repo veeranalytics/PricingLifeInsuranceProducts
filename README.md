@@ -1,4 +1,4 @@
-# PricingLifeInsuranceProducts
+# Pricing Life Insurance Products
 ## Model to Price Life Insurance Products based on Actuarial Techniques in R.
 
 #### Life insurances products are contracts that promise one or more payments upon occurrence of a life-contingent event. For example,
